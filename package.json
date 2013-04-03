@@ -1,0 +1,36 @@
+{
+  "name": "html-crawler",
+  "version": "0.1.0",
+  "description": "get html content , format and store it",
+  "keywords": [
+    "crawler",
+    "spider"
+  ],
+  "author": {
+    "name": "liulei",
+    "email": "liuleivstimes@gmail.com",
+    "url": "http://www.domain.com/noCreateYet"
+  },
+  "main": "./Hatchery.js",
+  "directories": {
+    "lib": "./_core"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://no.git"
+  },
+  "devDependencies": {
+    "mongodb": ">= 1.2.7",
+    "cheerio": ">= 0.10.5",
+    "iconv": ">= 1.2.4"
+  },
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "readme": "none",
+  "_id": "crawler Hatchery",
+  "dist": {
+    "shasum": "7452da88d1f77f30213fe9970a1b010a3e45b606"
+  },
+  "_from": "crawler Hatchery"
+}

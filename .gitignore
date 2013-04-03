@@ -1,0 +1,6 @@
+node_modules
+/nbproject/private/
+nbproject
+records
+/npm-debug.log
+/debug.txt
